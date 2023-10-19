@@ -1,2 +1,2 @@
 # Billing_System
-Billing System project using java.
+Restaurant Billing System project using java.
